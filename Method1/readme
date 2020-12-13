@@ -1,0 +1,19 @@
+This folder contains all the files needed for pylogenetic tree analysis
+The analysis is done through: https://microreact.org
+
+Files contries.tsv and genomes_metadata.tsv are used by geolocation_metadata.sh
+executable to create genomes_geolocation.tsv file.
+
+Files genomes_geolocation.tsv and core_genes_alignment.fastree.newick on
+ https://microreact.org     
+
+The project link is: https://microreact.org/project/nUomfbEis8bYVCxYWL1Y1c
+
+
+
+Midpoint re-rooted tree:
+
+The newick file: core_genes_midpoint_root.newick
+The project link: https://microreact.org/project/muR6iKWE3kpwX14daE86Xu
+
+
